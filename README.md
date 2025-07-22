@@ -1,5 +1,12 @@
 # 📩 A/B Testing: Email CTA Conversion Optimization
 
+![Built With: Python & Tableau](https://img.shields.io/badge/Built%20With-Python%20%26%20Tableau-blue)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue)
+![Use Case: Conversion Optimization](https://img.shields.io/badge/Use%20Case-Conversion%20Optimization-orange)
+![Stat Test: Z-Test](https://img.shields.io/badge/Stat%20Test-Z--Test%20for%20Proportions-lightgrey)
+![Dashboard: Included](https://img.shields.io/badge/Dashboard-Included-yellowgreen)
+
 A data-driven A/B testing project simulating a B2B SaaS email campaign to identify which call-to-action (CTA) drives more demo sign-ups — and whether the difference is statistically significant.
 
 ---
