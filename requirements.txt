@@ -1,2 +1,4 @@
-faker
-python-dateutil
+pandas
+numpy 
+matplotlib
+scipy.stats
