@@ -115,7 +115,3 @@ ab_testing_email_campaign_project/
 ```
 
 ---
-
-## 🔗 Tags
-
-`#A/BTesting` `#Python` `#SaaS` `#DataVisualization` `#EmailMarketing` `#StatisticalTesting`
