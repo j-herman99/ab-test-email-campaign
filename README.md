@@ -8,7 +8,6 @@
 ![Use Case: Conversion Optimization](https://img.shields.io/badge/Use%20Case-Conversion%20Optimization-14b8a6?style=flat&labelColor=333)
 ![Notebook: Jupyter](https://img.shields.io/badge/Notebook-Jupyter-f97316?style=flat&labelColor=333&logo=jupyter&logoColor=white)
 
-
 A data-driven A/B testing project simulating a B2B SaaS email campaign to identify which call-to-action (CTA) drives more demo sign-ups — and whether the difference is statistically significant.
 
 ---
