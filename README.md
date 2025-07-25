@@ -1,12 +1,12 @@
 # 📩 A/B Testing: Email CTA Conversion Optimization
 
-![Built With: Python](https://img.shields.io/badge/Built%20With-Python-blue)
-![Libraries: Pandas, NumPy](https://img.shields.io/badge/Libraries-Pandas%20%7C%20NumPy-lightgrey)
-![Visualization: Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-brightgreen)
-![Stat Test: Z-Test (SciPy)](https://img.shields.io/badge/Stat%20Test-Z--Test%20(SciPy)-blueviolet)
-![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Use Case: Conversion Optimization](https://img.shields.io/badge/Use%20Case-Conversion%20Optimization-orange)
-![Notebook: Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Built With: Python](https://img.shields.io/badge/Built%20With-Python-06b6d4?style=flat&labelColor=333&logo=python&logoColor=white)
+![Libraries: Pandas | NumPy](https://img.shields.io/badge/Libraries-Pandas%20%7C%20NumPy-7dd3fc?style=flat&labelColor=333&logo=pandas&logoColor=white)
+![Visualization: Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-9333ea?style=flat&labelColor=333&logo=matplotlib&logoColor=white)
+![Stat Test: Z-Test (SciPy)](https://img.shields.io/badge/Stat%20Test-Z--Test%20(SciPy)-8b5cf6?style=flat&labelColor=333&logo=scipy&logoColor=white)
+![Status: Complete](https://img.shields.io/badge/Status-Complete-facc15?style=flat&labelColor=333)
+![Use Case: Conversion Optimization](https://img.shields.io/badge/Use%20Case-Conversion%20Optimization-14b8a6?style=flat&labelColor=333)
+![Notebook: Jupyter](https://img.shields.io/badge/Notebook-Jupyter-f97316?style=flat&labelColor=333&logo=jupyter&logoColor=white)
 
 
 A data-driven A/B testing project simulating a B2B SaaS email campaign to identify which call-to-action (CTA) drives more demo sign-ups — and whether the difference is statistically significant.
